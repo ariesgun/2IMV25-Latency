@@ -1,0 +1,28 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\LeapMotion\Version.txt">
+    <Files>
+      <File FileName="Assets\LeapMotion\Scripts\HandController.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotionVR\DemoResources\Scripts\MovementManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScenesController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SphereInteraction.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotionVR\Scripts\TouchCubeHelpMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Scripts\Utils\KeyEnableBehaviors.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MutableData.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneRandomizer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\TimeResultDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FrameDelayDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SceneNameDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotionVR\Scripts\LeapVRCameraControl.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\HandRecordingControls.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Characters\FirstPersonCharacter\Scripts\FirstPersonController.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotionVR\Scripts\ConfigurationManager\HMRConfigurationManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotionVR\Scripts\ConfigurationManager\Editor\HMRConfigurationManagerEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\LeapMotion\Version.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
